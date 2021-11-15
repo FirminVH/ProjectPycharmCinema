@@ -16,3 +16,4 @@ else:
     prijs = prijs + 0
 
 print("persoon 1 betaald:",prijs)
+print("weer een update")
