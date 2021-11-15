@@ -17,3 +17,4 @@ else:
 
 print("persoon 1 betaald:",prijs)
 print("weer een update")
+print("verandering in github")
